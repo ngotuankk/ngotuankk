@@ -2,7 +2,6 @@
 
 ## 📫 How to reach me:
 - **Blog**: [ngotuan.vercel.app](https://ngotuan.vercel.app/)
-- **Facebook**: [Ngo Tuan](https://www.facebook.com/ngotuan22)
 - **Email**: ngovantuanhv@gmail.com
 
 ## 💼 My Skills:
